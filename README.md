@@ -18,7 +18,7 @@ Frameworks and Technologies I work with include **React** (CRA, Gatsby and Nextj
   <img width="200" height="200" align='left' src="mental_health.png" alt="A picture of a brain written mental health ">
 </p>
 
-### My Passions
+### My Passions 💪🏿
 
 I'm passionate about Mental Health, Public Transport, and Governance. I ~~try to~~ practice Minimalism.
 
