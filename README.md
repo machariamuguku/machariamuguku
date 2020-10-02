@@ -26,6 +26,6 @@ I'm passionate about Mental Health, Public Transport, and Governance. I ~~try to
 
 ### My Digital Garden 🌱
 
-I [Blog](https://medium.com/@iMash) once in a while and also occasionally rant on [Linked-in](https://www.linkedin.com/in/machariamuguku/)
+I [Blog](https://medium.com/@iMash) once in a while and rant occasionally on [Linked-in](https://www.linkedin.com/in/machariamuguku/)
 
 ---
