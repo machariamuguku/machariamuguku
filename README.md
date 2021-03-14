@@ -2,9 +2,9 @@
 
 I'm a Software Engineer from Nairobi, Kenya interested in Data Visualization and Machine learning.
 
-I'm proficient in **Javascript** and **Go-lang** but the universe is conspiring against me to learn **Python**.
+I'm proficient in **Javascript** and **Go** but the universe is conspiring against me to learn **Python**.
 
-Frameworks and Technologies I've worked with include **React** (CRA, Gatsby and Nextjs), **React Native**, **Nodejs**, and **GraphQL**.
+Technologies I've worked with include **React** (CRA, Gatsby and Nextjs), **React Native**, **Typescript**, **Redux**, **GraphQL**, **Apollo Client**, **React-Query**, **Tailwind**, **Bootstrap**, **Bulma**, **Jest**, **React Testing Library**, **Nodejs**, **Express**, **MongoDb**, **Postgres SQL**, **Git**, **AWS**, **Docker**, and **Nginx**.
 
 ---
 
@@ -14,7 +14,7 @@ Frameworks and Technologies I've worked with include **React** (CRA, Gatsby and 
 
 ### My Passions 💪🏿
 
-I'm passionate about Mental Health, Public Transport, and Governance. I chase trails, hills, and mountains, and ~~try to~~ practice Minimalism.
+I'm passionate about Mental Health, Public Transport, and Governance. In my spare time, I chase trails, hills, and mountains, and ~~try to~~ practice Minimalism.
 
 ---
 
