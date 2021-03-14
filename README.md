@@ -1,10 +1,10 @@
 # Hi, I'm Macharia 👋🏾
 
-I'm a Software Engineer from Nairobi, Kenya interested in Data Visualization, Artificial Intelligence and Internet Of Things.
+I'm a Software Engineer from Nairobi, Kenya interested in Data Visualization and Machine learning.
 
 I'm proficient in **Javascript** and **Go-lang** but the universe is conspiring against me to learn **Python**.
 
-Frameworks and Technologies I work with include **React** (CRA, Gatsby and Nextjs), **React Native**, **Nodejs**, and **GraphQL**.
+Frameworks and Technologies I've worked with include **React** (CRA, Gatsby and Nextjs), **React Native**, **Nodejs**, and **GraphQL**.
 
 ---
 
@@ -14,7 +14,7 @@ Frameworks and Technologies I work with include **React** (CRA, Gatsby and Nextj
 
 ### My Passions 💪🏿
 
-I'm passionate about Mental Health, Public Transport, and Governance. I ~~try to~~ practice Minimalism.
+I'm passionate about Mental Health, Public Transport, and Governance. I chase trails, hills, and mountains, and ~~try to~~ practice Minimalism.
 
 ---
 
